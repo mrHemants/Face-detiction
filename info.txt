@@ -1,0 +1,10 @@
+library-
+cmake
+dlib
+face-recognition
+numpy
+opencv-python
+
+step1- import library
+step2- image face ditect
+step3- compare the image -same or not
